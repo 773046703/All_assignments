@@ -1,0 +1,12 @@
+C:\Users\saeed\Desktop\OOP\المحاضره 4\الواجب 1\الواجب 1\bin\Debug\الواجب 1.exe.config
+C:\Users\saeed\Desktop\OOP\المحاضره 4\الواجب 1\الواجب 1\bin\Debug\الواجب 1.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 4\الواجب 1\الواجب 1\bin\Debug\الواجب 1.pdb
+C:\Users\saeed\Desktop\OOP\المحاضره 4\الواجب 1\الواجب 1\obj\Debug\الواجب 1.csprojResolveAssemblyReference.cache
+C:\Users\saeed\Desktop\OOP\المحاضره 4\الواجب 1\الواجب 1\obj\Debug\الواجب 1.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 4\الواجب 1\الواجب 1\obj\Debug\الواجب 1.pdb
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 4\الواجب 1\الواجب 1\bin\Debug\الواجب 1.exe.config
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 4\الواجب 1\الواجب 1\obj\Debug\الواجب 1.exe
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 4\الواجب 1\الواجب 1\obj\Debug\الواجب 1.pdb
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 4\الواجب 1\الواجب 1\bin\Debug\الواجب 1.exe
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 4\الواجب 1\الواجب 1\bin\Debug\الواجب 1.pdb
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 4\الواجب 1\الواجب 1\obj\Debug\الواجب 1.csprojResolveAssemblyReference.cache

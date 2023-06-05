@@ -1,0 +1,6 @@
+C:\Users\saeed\Desktop\OOP\الوجب السادس\الوجب السادس\bin\Debug\الوجب السادس.exe.config
+C:\Users\saeed\Desktop\OOP\الوجب السادس\الوجب السادس\bin\Debug\الوجب السادس.exe
+C:\Users\saeed\Desktop\OOP\الوجب السادس\الوجب السادس\bin\Debug\الوجب السادس.pdb
+C:\Users\saeed\Desktop\OOP\الوجب السادس\الوجب السادس\obj\Debug\الوجب السادس.csprojResolveAssemblyReference.cache
+C:\Users\saeed\Desktop\OOP\الوجب السادس\الوجب السادس\obj\Debug\الوجب السادس.exe
+C:\Users\saeed\Desktop\OOP\الوجب السادس\الوجب السادس\obj\Debug\الوجب السادس.pdb

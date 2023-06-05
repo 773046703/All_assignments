@@ -1,0 +1,11 @@
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\bin\Debug\الواجب التاسع 2.exe.config
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\bin\Debug\الواجب التاسع 2.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\bin\Debug\الواجب التاسع 2.pdb
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\obj\Debug\الواجب التاسع 2.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\obj\Debug\الواجب التاسع 2.pdb
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\bin\Debug\الواجب التاسع 2.exe.config
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\obj\Debug\الواجب التاسع 2.exe
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\obj\Debug\الواجب التاسع 2.pdb
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\bin\Debug\الواجب التاسع 2.exe
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\bin\Debug\الواجب التاسع 2.pdb
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب التاسع 2\الواجب التاسع 2\obj\Debug\الواجب التاسع 2.csprojResolveAssemblyReference.cache

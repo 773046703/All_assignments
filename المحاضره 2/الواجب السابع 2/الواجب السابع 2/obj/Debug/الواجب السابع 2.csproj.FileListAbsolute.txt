@@ -1,0 +1,8 @@
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب السابع 2\الواجب السابع 2\bin\Debug\الواجب السابع 2.exe.config
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب السابع 2\الواجب السابع 2\bin\Debug\الواجب السابع 2.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب السابع 2\الواجب السابع 2\bin\Debug\الواجب السابع 2.pdb
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب السابع 2\الواجب السابع 2\obj\Debug\الواجب السابع 2.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب السابع 2\الواجب السابع 2\obj\Debug\الواجب السابع 2.pdb
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب السابع 2\الواجب السابع 2\bin\Debug\الواجب السابع 2.exe.config
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب السابع 2\الواجب السابع 2\obj\Debug\الواجب السابع 2.exe
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب السابع 2\الواجب السابع 2\obj\Debug\الواجب السابع 2.pdb

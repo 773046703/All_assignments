@@ -1,0 +1,6 @@
+C:\Users\saeed\Desktop\OOP\الوجب الرابع\الوجب الرابع\bin\Debug\الوجب الرابع.exe.config
+C:\Users\saeed\Desktop\OOP\الوجب الرابع\الوجب الرابع\bin\Debug\الوجب الرابع.exe
+C:\Users\saeed\Desktop\OOP\الوجب الرابع\الوجب الرابع\bin\Debug\الوجب الرابع.pdb
+C:\Users\saeed\Desktop\OOP\الوجب الرابع\الوجب الرابع\obj\Debug\الوجب الرابع.exe
+C:\Users\saeed\Desktop\OOP\الوجب الرابع\الوجب الرابع\obj\Debug\الوجب الرابع.pdb
+C:\Users\saeed\Desktop\OOP\الوجب الرابع\الوجب الرابع\obj\Debug\الوجب الرابع.csprojResolveAssemblyReference.cache

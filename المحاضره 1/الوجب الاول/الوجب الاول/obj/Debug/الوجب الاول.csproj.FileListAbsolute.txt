@@ -1,0 +1,6 @@
+C:\Users\saeed\Desktop\OOP\الوجب الاول\الوجب الاول\bin\Debug\الوجب الاول.exe.config
+C:\Users\saeed\Desktop\OOP\الوجب الاول\الوجب الاول\obj\Debug\الوجب الاول.csprojResolveAssemblyReference.cache
+C:\Users\saeed\Desktop\OOP\الوجب الاول\الوجب الاول\bin\Debug\الوجب الاول.exe
+C:\Users\saeed\Desktop\OOP\الوجب الاول\الوجب الاول\bin\Debug\الوجب الاول.pdb
+C:\Users\saeed\Desktop\OOP\الوجب الاول\الوجب الاول\obj\Debug\الوجب الاول.exe
+C:\Users\saeed\Desktop\OOP\الوجب الاول\الوجب الاول\obj\Debug\الوجب الاول.pdb

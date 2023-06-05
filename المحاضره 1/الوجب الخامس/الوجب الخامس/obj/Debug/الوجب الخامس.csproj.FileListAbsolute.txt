@@ -1,0 +1,9 @@
+C:\Users\saeed\Desktop\OOP\الوجب الخامس\الوجب الخامس\bin\Debug\الوجب الخامس.exe.config
+C:\Users\saeed\Desktop\OOP\الوجب الخامس\الوجب الخامس\bin\Debug\الوجب الخامس.exe
+C:\Users\saeed\Desktop\OOP\الوجب الخامس\الوجب الخامس\bin\Debug\الوجب الخامس.pdb
+C:\Users\saeed\Desktop\OOP\الوجب الخامس\الوجب الخامس\obj\Debug\الوجب الخامس.csprojResolveAssemblyReference.cache
+C:\Users\saeed\Desktop\OOP\الوجب الخامس\الوجب الخامس\obj\Debug\الوجب الخامس.exe
+C:\Users\saeed\Desktop\OOP\الوجب الخامس\الوجب الخامس\obj\Debug\الوجب الخامس.pdb
+C:\Users\saeed\Desktop\OOP\المحاضره 1\الوجب الخامس\الوجب الخامس\bin\Debug\الوجب الخامس.exe.config
+C:\Users\saeed\Desktop\OOP\المحاضره 1\الوجب الخامس\الوجب الخامس\obj\Debug\الوجب الخامس.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 1\الوجب الخامس\الوجب الخامس\obj\Debug\الوجب الخامس.pdb

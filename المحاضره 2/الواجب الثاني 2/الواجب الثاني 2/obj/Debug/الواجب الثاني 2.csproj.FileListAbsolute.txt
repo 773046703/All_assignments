@@ -1,0 +1,9 @@
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\bin\Debug\الواجب الثاني 2.exe.config
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\bin\Debug\الواجب الثاني 2.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\bin\Debug\الواجب الثاني 2.pdb
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\obj\Debug\الواجب الثاني 2.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\obj\Debug\الواجب الثاني 2.pdb
+C:\Users\saeed\Desktop\OOP\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\obj\Debug\الواجب الثاني 2.csprojResolveAssemblyReference.cache
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\bin\Debug\الواجب الثاني 2.exe.config
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\obj\Debug\الواجب الثاني 2.exe
+C:\Users\saeed\Desktop\سعيد محمد باحيدره IT المستوى الثاني\المحاضره 2\الواجب الثاني 2\الواجب الثاني 2\obj\Debug\الواجب الثاني 2.pdb

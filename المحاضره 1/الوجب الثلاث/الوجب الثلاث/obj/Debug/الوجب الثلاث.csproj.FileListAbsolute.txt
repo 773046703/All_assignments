@@ -1,0 +1,9 @@
+C:\Users\saeed\Desktop\OOP\الوجب الثلاث\الوجب الثلاث\bin\Debug\الوجب الثلاث.exe.config
+C:\Users\saeed\Desktop\OOP\الوجب الثلاث\الوجب الثلاث\obj\Debug\الوجب الثلاث.csprojResolveAssemblyReference.cache
+C:\Users\saeed\Desktop\OOP\الوجب الثلاث\الوجب الثلاث\bin\Debug\الوجب الثلاث.exe
+C:\Users\saeed\Desktop\OOP\الوجب الثلاث\الوجب الثلاث\bin\Debug\الوجب الثلاث.pdb
+C:\Users\saeed\Desktop\OOP\الوجب الثلاث\الوجب الثلاث\obj\Debug\الوجب الثلاث.exe
+C:\Users\saeed\Desktop\OOP\الوجب الثلاث\الوجب الثلاث\obj\Debug\الوجب الثلاث.pdb
+C:\Users\saeed\Desktop\OOP\المحاضره 1\الوجب الثلاث\الوجب الثلاث\bin\Debug\الوجب الثلاث.exe.config
+C:\Users\saeed\Desktop\OOP\المحاضره 1\الوجب الثلاث\الوجب الثلاث\obj\Debug\الوجب الثلاث.exe
+C:\Users\saeed\Desktop\OOP\المحاضره 1\الوجب الثلاث\الوجب الثلاث\obj\Debug\الوجب الثلاث.pdb
